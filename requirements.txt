@@ -1,3 +1,10 @@
 streamlit
 scikit-learn
 pdfplumber
+numpy 
+scipy
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
